@@ -1,8 +1,6 @@
-import os
 def arrowPointVisualization(list:[str]) -> list:
 	for item in list:
 		print(" ->", item)
-
 
 print("Hello there!")
 print("My name is Mancier and this is my second code in python")
